@@ -13,7 +13,7 @@ header:
 excerpt: ""
 ---
 
-I'm a Computational Science MSc student at the Universtiy of Amsterdam with a background in Geoscience.
+I'm a Computer Science PhD student at the IIT Hyderabad.
 
 Arctic background
 ======
